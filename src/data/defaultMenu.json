@@ -1,0 +1,71 @@
+{    
+    "tacos":
+        [
+            {
+                "id": 1,
+                "name": "Tacos De Brisket",
+                "description": "Brisket served on a corn tortilla",
+                "servings": "1 or 4",
+                "image": "tacos-brisket"
+            },
+            {
+                "id": 2,
+                "name": "Tacos De Pollo Asado Marinado",
+                "description": "Marinated Grilled Chicken Served on a corn tortilla",
+                "servings":"1 or 4",
+                "image": "tacos-pollo"
+            },
+            {
+                "id": 3,
+                "name": "Flautas De Brisket",
+                "description": "Brisket rolled in a corn tortilla",
+                "servings": "1 or 4",
+                "image": "flautas-brisket"
+            },
+            {
+                "id": 4,
+                "name": "Flautas De Papa",
+                "description": "Potato rolled in a corn tortilla",
+                "servings": "1 or 4",
+                "image": "flautas-papa"
+            }
+        ],
+    "addons":
+        [
+            {
+                "id": 1,
+                "name": "Avocado"
+            },
+            {
+                "id": 2,
+                "name": "Grilled Onions"
+            },
+            {
+                "id": 3,
+                "name": "Queso Fresco"
+            },
+            {
+                "id": 4,
+                "name": "Extra Brisket"
+            }
+        ],
+    "beverages":
+        [
+            {
+                "id": 1,
+                "name": "Imported Mexican Soda"
+            },
+            {
+                "id": 1,
+                "name": "Apple Cider / Manazana"
+            },
+            {
+                "id": 2,
+                "name": "Fruit Punch / Ponche De Fruta"
+            },
+            {
+                "id": 3,
+                "name": "Coca Cola"
+            }
+        ]
+}
